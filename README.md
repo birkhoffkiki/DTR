@@ -13,19 +13,6 @@ The official implementation of DGR, a generative AI model for virtual staining i
 
 ![main_figure](assets/main.png)
 
-## Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Training](#training)
-- [Pretrained Models](#pretrained-models)
-- [Inference](#inference)
-- [Results](#results)
-- [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Overview
 DGR is a novel  framework designed for virtual staining of histopathology images with enhanced resistance to misalignment. Our method enables:
 - High-fidelity stain transformation between different histopathology modalities
