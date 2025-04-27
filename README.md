@@ -33,11 +33,11 @@ DGR is a novel  framework designed for virtual staining of histopathology images
 - Significant acceleration of histopathology workflows
 
 ## Key Features
-- 🚀 **High-quality transformations**: Preserves tissue structures while converting stains
-- 🔄 **Misalignment-resistant**: Handles up to 50% tissue section offset
-- ⏱️ **Fast inference**: Processes whole-slide images in minutes
-- 📊 **Multi-dataset support**: Compatible with Aperio-Hamamatsu and HEMIT datasets
-- 🧠 **Modular architecture**: Easy to extend for new stain types
+- 🚀 **High-quality transformations**
+- 🔄 **Misalignment-resistant**
+- ⏱️ **Fast inference**
+- 📊 **Multi-dataset support**
+- 🧠 **Modular architecture**
 
 ## Installation
 
@@ -75,7 +75,7 @@ bash train_hemit.sh
 
 
 ## Inference
-Example notebook: `play_with_the_pretrained_model.ipynb`
+Example notebook: [play_with_the_pretrained_model.ipynb](https://github.com/birkhoffkiki/DTR/blob/main/visualize.ipynb)
 
 ## contact
 
