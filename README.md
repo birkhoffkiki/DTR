@@ -1,6 +1,7 @@
 <!-- # DTR
 ##  -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=DGR&desc=Generative%20AI%20for%20Misalignment-Resistant%20Virtual%20%20Staining%20to%20Accelerate%20Histopathology%20Workflows&descSize=19&fontAlign=8&fontAlignY=19&animation=twinkling&fontSize=50&descAlignY=43)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=DGR&desc=Generative%20AI%20for%20Misalignment-Resistant%20Virtual%20%20Staining%20to%20Accelerate%20Histopathology%20Workflows&descSize=19&fontAlign=8&fontAlignY=19&animation=twinkling&fontSize=50&descAlignY=43)  
+[![Arxiv Page](https://img.shields.io/badge/Arxiv-2509.14119-red?style=flat-square)](https://arxiv.org/abs/2509.14119)
 ![GitHub last commit](https://img.shields.io/github/last-commit/birkhoffkiki/DTR?style=flat-square)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SMARTLab_HKUST%20)](https://x.com/SMARTLab_HKUST)
 ![Python Version](https://img.shields.io/badge/python-3.9-blue.svg)
