@@ -70,3 +70,14 @@ Example notebook: [play_with_the_pretrained_model.ipynb](https://github.com/birk
 if you have any questions, please feel free to contact me:  
 
 * JIABO MA, jmabq@connect.ust.hk
+
+## Citation
+@misc{DGR,  
+      title={Generative AI for Misalignment-Resistant Virtual Staining to Accelerate Histopathology Workflows},   
+      author={Jiabo MA and Wenqiang Li and Jinbang Li and Ziyi Liu and Linshan Wu and Fengtao Zhou and Li Liang and Ronald Cheong Kin Chan and Terence T. W. Wong and Hao Chen},  
+      year={2025},  
+      eprint={2509.14119},  
+      archivePrefix={arXiv},  
+      primaryClass={cs.CV},  
+      url={https://arxiv.org/abs/2509.14119},   
+}
